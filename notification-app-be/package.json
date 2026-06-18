@@ -1,0 +1,10 @@
+{
+  "name": "notification-app-be",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Backend services for notification app",
+  "main": "priorityInbox.js",
+  "scripts": {
+    "start": "node priorityInbox.js"
+  }
+}
